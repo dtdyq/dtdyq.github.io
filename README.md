@@ -1,4 +1,4 @@
 [TOC]
 # dtdyq.github.io
 
-![test](/test.html)
+[test](./test.html)
