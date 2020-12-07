@@ -9,4 +9,4 @@
 - #### [jdbc](./java/jdbc)
 - #### [reflect](./java/reflect)
 - #### [jvm](./java/jvm)
-- #### [other](./java/other)
+- #### [other](./java/test.md)
