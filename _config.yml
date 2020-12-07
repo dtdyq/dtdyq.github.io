@@ -2,5 +2,4 @@ title: dtdyq
 description: do
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
-
+remote_theme: "dracula/gh-pages"
